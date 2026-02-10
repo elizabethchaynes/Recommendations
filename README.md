@@ -1,5 +1,8 @@
 # Recommendations
-Recent colleague recommendations.
+Colleague recommendations from my time at Expel. Find more recommendations here:
+* https://elizabethchaynes.com/testimonials/
+* https://www.linkedin.com/in/elizabethchaynes/
+
 ## Daren McCulley, Engineering Manager (partner on API docs):
 She listens first. She takes the time to really understand the problems we're facing and hear out perspectives. There is a good reason engineers have a lousy reputation for documenting their software and it would've been pretty simple to jump straight into making changes without having those conversations and assuming we were not interested in being part of the process.
 She meets us halfway on the technical side. Meaning she is committed to opening the pull requests to modify our documentation directly and climbing the learning curve necessary to get there. See this very active Jira issue: https://expel-io.atlassian.net/browse/CEPS-673 for evidence of that commitment. I would've expected a technical writing team interested in modifying our public-facing API documentation which is generated at build-time and requires pull requests to change to simply lob requirements over the fence at the responsible engineering teams. The fact that Elizabeth is actively considering new tools and will begin to make those changes on her own w/ reviews from us is above and beyond in my book: https://docs.google.com/document/d/1An3Eww8Q_zP93wrufoWFurO7lJA_UTKgD60b6MGu01o/edit.
